@@ -18,8 +18,3 @@
 }
 
 
-//     public static void main(String[] args) {
-//         Informasi myInfo = Informasi.SEGITIGA;
-//         System.out.println(myInfo.sisi);
-//     }
-// }
